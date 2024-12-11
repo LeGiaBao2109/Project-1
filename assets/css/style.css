@@ -424,7 +424,7 @@ body {
     gap: 20px;
 }
 
-.section-2 .inner-button-buttom {
+.section-2 .inner-button-bottom {
     display: none;
 }
 
@@ -439,7 +439,7 @@ body {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .section-2 .inner-button-buttom {
+    .section-2 .inner-button-bottom {
         display: block;
         margin-top: 16px;
         text-align: center;
@@ -455,7 +455,7 @@ body {
         gap: 12px 12px;
     }
 
-    .section-2 .inner-button-buttom .button {
+    .section-2 .inner-button-bottom .button {
         display: flex;
         justify-content: center;
     }
